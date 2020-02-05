@@ -17,7 +17,7 @@ array.first
 end
 
 def using_last(array)
-
+array = ["I", "am", "arrays!"]
 end
 
 def using_size(array)
