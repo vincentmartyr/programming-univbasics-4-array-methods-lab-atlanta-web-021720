@@ -7,8 +7,8 @@ array = ["I", "wow"]
 end
 
 def using_reverse(array)
-array = ["I", "arrays!", "wow"]
-array.reverse
+array = ["I", "wow," "arrays!"]
+array.reverse!
 end
 
 def using_first(array)
