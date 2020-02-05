@@ -22,5 +22,6 @@ array.last
 end
 
 def using_size(array)
-
+array = ["i", "am", "the", "greatest", "of", "all time" ]
+array.length
 end
